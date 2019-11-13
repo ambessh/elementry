@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    border:1px solid slategrey;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+
+.centered{
+    margin:auto;
+    padding:10px;
+    width:140px;
+}
+
+.button1 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: absolute;
+    left:700px;
+    top:120px;
+  }
+
+  .button2{
+      background-color: #4CAF50;
+      color:white;
+      
+      padding:15px 32px;
+      font-size: 16px;
+      border :none;
+      text-decoration: none;
+      text-align: center;
+      margin-left: 800px;
+      display: inline-block;
+     position: absolute;
+     left:40px;
+     top:120px;
+  }
+
+  .button3{
+      background-color: #4caf50;
+      color:white;
+      font-size: 16px;
+      padding:15px 32px;
+      border:none;
+      text-decoration: none;
+      text-align: right;
+      margin-left: 1300px;
+     display: inline-block;
+     position: absolute ;
+     left:-305px;
+     top: 120px;
+  }
